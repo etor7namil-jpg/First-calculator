@@ -1,2 +1,2 @@
 # First-calculator
-my first calculator is coo enougl
+my first calculator is coo enough
