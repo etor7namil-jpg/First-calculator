@@ -1,2 +1,2 @@
 # First-calculator
-my first calculator
+my first calculator is cool
